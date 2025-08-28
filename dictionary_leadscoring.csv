@@ -1,0 +1,29 @@
+Campo,Descrição,Tipo,Obs
+Lead origin,Origem Do Lead,string,
+Lead source,Canal De Aquisição do Lead,string,
+Do not email,Flags Para Avisar O Time Se Está Marcado Pra Mandar Email Ou Não Ligar,string,
+Do not call,Flags Para Avisar O Time Se Está Marcado Pra Mandar Email Ou Não Ligar,string,
+Converted,Se A Pessoa Converteu (1) Ou Não Converteu (0),integer,dummy: true or false
+Total visits,Total De Visitas no Site,integer,
+Total time spent,Tempo Gasto No Site,integer,
+Page views por visit,Quantidade De Páginas Vistas Em Cada Visita,integer,
+Last activity,Última Atividade Realizada Pelo Lead,string,
+Specialization,"Resposta ao Formulário, Especialização Que Tem Interesse",string,
+How did you hear us,"Resposta Ao Formulário, Como Escutou Falar Da Gente",string,
+What is your current occupation,"Resposta ao Formulário, Emprego ou Cargo Da Pessoa",string,
+What matters most to you in choosing a course,"Resposta Ao Formulário, O Que Importa Pessoa Na Hora De Escolher Curso",string,
+Search,"Respostas Ao Formulário, Indicando Se Recebeu Ou Não Alguma Comunicação (No/Yes)",string,dummy: true or false
+Magazine,"Respostas Ao Formulário, Indicando Se Recebeu Ou Não Alguma Comunicação (No/Yes)",string,dummy: true or false
+Newspaper Article,"Respostas Ao Formulário, Indicando Se Recebeu Ou Não Alguma Comunicação (No/Yes)",string,dummy: true or false
+X Education Forums,"Respostas Ao Formulário, Indicando Se Recebeu Ou Não Alguma Comunicação (No/Yes)",string,dummy: true or false
+Newspaper,"Respostas Ao Formulário, Indicando Se Recebeu Ou Não Alguma Comunicação (No/Yes)",string,dummy: true or false
+Digital Advertisement,"Respostas Ao Formulário, Indicando Se Recebeu Ou Não Alguma Comunicação (No/Yes)",string,dummy: true or false
+Through Recommendations,"Respostas Ao Formulário, Indicando Se Recebeu Ou Não Alguma Comunicação (No/Yes)",string,dummy: true or false
+Receive More Updates About Our Courses,"Respostas Ao Formulário, Indicando Se Recebeu Ou Não Alguma Comunicação (No/Yes)",string,dummy: true or false
+Tags,REMOVIDA: Tags Presentes No Registro Do Lead,string,variável obtida somente após a conversão do lead em cliente
+Lead Quality,REMOVIDA: Presenta Qualidade Do Lead,string,variável obtida somente após a conversão do lead em cliente
+Update me on Supply Chain Content,Respostas Ao Formulário (No/Yes),string,dummy: true or false
+Get updates on DM Content,Respostas Ao Formulário (No/Yes),string,dummy: true or false
+I agree to pay the amount through cheque,Respostas Ao Formulário (No/Yes),string,dummy: true or false
+A free copy of Mastering The Interview,Respostas Ao Formulário (No/Yes),string,dummy: true or false
+Last Notable Activity,Última Atividade Importante Do Lead,string,
